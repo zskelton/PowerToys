@@ -44,6 +44,7 @@
                             <ComboBoxItem x:Uid="Awake_IndefiniteKeepAwakeSelector" />
                             <ComboBoxItem x:Uid="Awake_TemporaryKeepAwakeSelector" />
                             <ComboBoxItem x:Uid="Awake_ExpirableKeepAwakeSelector" />
+                            <ComboBoxItem x:Uid="Awake_BusinessKeepAwakeSelector" />
                         </ComboBox>
                     </tkcontrols:SettingsCard>
 
