@@ -11,8 +11,8 @@ namespace Microsoft.PowerToys.Settings.UI.Library
 {
     public class AwakeSettings : BasePTModuleSettings, ISettingsConfig, ICloneable
     {
-        public const string ModuleName = "Awake";
-        public const string ModuleVersion = "0.0.2";
+        public const string ModuleName = "Awake - zskelton.dev";
+        public const string ModuleVersion = "0.0.2.z";
 
         public AwakeSettings()
         {

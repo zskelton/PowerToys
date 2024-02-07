@@ -12,5 +12,6 @@ namespace Awake.Core.Models
         TC_MODE_EXPIRABLE = Native.Constants.WM_USER + 4,
         TC_EXIT = Native.Constants.WM_USER + 100,
         TC_TIME = Native.Constants.WM_USER + 101,
+        TC_SET_BUSINESS_HOUR = Native.Constants.WM_USER + 102,
     }
 }

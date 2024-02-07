@@ -31,7 +31,7 @@ namespace Awake
         // Format of the build ID is: CODENAME_MMDDYYYY, where MMDDYYYY
         // is representative of the date when the last change was made before
         // the pull request is issued.
-        private static readonly string BuildId = "ATRIOX_04132023";
+        private static readonly string BuildId = "ATRIOX_02072024";
 
         private static Mutex? _mutex;
         private static FileSystemWatcher? _watcher;
