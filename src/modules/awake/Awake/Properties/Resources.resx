@@ -159,4 +159,8 @@
   <data name="AWAKE_UNCHECKED" xml:space="preserve">
     <value>Unchecked</value>
   </data>
+  <data name="AWAKE_KEEP_BUSINESS_ON" xml:space="preserve">
+    <value>Keep awake on for business hours</value>
+    <comment>Keeps system awake for given time set as from {0} to {1}.</comment>
+  </data>
 </root>

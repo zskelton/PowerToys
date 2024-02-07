@@ -106,6 +106,15 @@ namespace Awake.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Keep awake on for business hours.
+        /// </summary>
+        internal static string AWAKE_KEEP_BUSINESS_ON {
+            get {
+                return ResourceManager.GetString("AWAKE_KEEP_BUSINESS_ON", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Keep awake indefinitely.
         /// </summary>
         internal static string AWAKE_KEEP_INDEFINITELY {
